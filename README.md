@@ -1,5 +1,8 @@
 # MiniSpec
 
+[![npm version](https://img.shields.io/npm/v/@falkenslab/minispec)](https://www.npmjs.com/package/@falkenslab/minispec)
+[![license](https://img.shields.io/npm/l/@falkenslab/minispec)](LICENSE)
+
 **A lightweight specification standard for AI-assisted software development.**
 
 MiniSpec is a tiny, token-frugal alternative to heavyweight Spec-Driven
