@@ -1,5 +1,5 @@
 {
-  "name": "minispec",
+  "name": "@falkenslab/minispec",
   "version": "1.0.0",
   "description": "A lightweight specification standard for AI-assisted software development.",
   "bin": {
@@ -22,5 +22,17 @@
     "agents",
     "specification"
   ],
-  "license": "MIT"
+  "author": "Francisco Vargas Ruiz",
+  "license": "MIT",
+  "homepage": "https://github.com/falkenslab/minispec#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/falkenslab/minispec.git"
+  },
+  "bugs": {
+    "url": "https://github.com/falkenslab/minispec/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
 }

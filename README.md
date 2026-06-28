@@ -18,10 +18,12 @@ agent the minimum context it needs — and nothing more.
 ## Install
 
 ```bash
-npx minispec init --here          # scaffold MiniSpec in the current project
-npx minispec init my-app          # ...or into a new folder
-npx minispec init --here --ai claude
+npx @falkenslab/minispec init --here     # scaffold MiniSpec in the current project
+npx @falkenslab/minispec init my-app     # ...or into a new folder
+npx @falkenslab/minispec init --here --ai claude
 ```
+
+> Installed globally (`npm i -g @falkenslab/minispec`), the command is just `minispec`.
 
 This creates `.minispec/`, installs the chosen AI integration (for Claude Code:
 `.claude/skills/minispec-*`), and adds a "read first" pointer to the AI context
