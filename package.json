@@ -1,0 +1,26 @@
+{
+  "name": "minispec",
+  "version": "1.0.0",
+  "description": "A lightweight specification standard for AI-assisted software development.",
+  "bin": {
+    "minispec": "bin/minispec.js"
+  },
+  "files": [
+    "bin",
+    "template",
+    "integrations",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "sdd",
+    "spec-driven-development",
+    "ai",
+    "claude",
+    "agents",
+    "specification"
+  ],
+  "license": "MIT"
+}
