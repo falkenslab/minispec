@@ -1,0 +1,6 @@
+{
+  "name": "minispec",
+  "description": "MiniSpec's skills: write features, fixes and ADRs as short specs and implement them.",
+  "author": { "name": "Falken's Lab Team" },
+  "version": "1.0.0"
+}
